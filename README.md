@@ -1,1 +1,1 @@
-# misconfigureds3
+# Security Awareness Training - Misconfigured AWS S3 Buckets
