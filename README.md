@@ -8,8 +8,8 @@ Below are the steps we took to complete this lab.
 
 <br/>
 
-Step 1:
-### Identifying the Specific Risk 💥 
+
+### Step 1: Identifying the Specific Risk 💥 
 <br/>
 The primary objective of this step is to educate end-users about the risks associated with misconfigured AWS S3 Buckets. 
 To enhance the relevance and urgency of this message, we provide a real-life example demonstrating 
@@ -18,8 +18,8 @@ thereby emphasizing the importance of vigilant and informed handling of AWS reso
 
 <br/>
 
-Step 2:
-### Providing Remediation and Solutions 👍
+
+### Step 2: Providing Remediation and Solutions 👍
 <br/>
 Once the risk has been clearly articulated, the next step involves offering practical remediation strategies. 
 This includes directing users to specific AWS documentation that details necessary security measures and role-based access control (RBAC) settings. 
@@ -27,8 +27,8 @@ This guidance helps ensure that users are well-equipped to prevent or address se
 
 <br/>
 
-Step 3:
-### Effective Communication Strategies 📑 
+
+### Step 3: Effective Communication Strategies 📑 
 Determining the target audience is crucial for effective communication. 
 This training is designed specifically for IT personnel, R&D teams, 
 and any individual responsible for configuring AWS S3 Buckets. 
