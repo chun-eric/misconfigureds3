@@ -9,7 +9,7 @@ Below are the steps we took to complete this lab.
 <br/>
 Step 1:
 <br/>
-### Identifying the Specific Risk 💥 
+### Identifying the Specific Risk 
 <br/>
 The primary objective of this step is to educate end-users about the risks associated with misconfigured AWS S3 Buckets. 
 To enhance the relevance and urgency of this message, we provide a real-life example demonstrating 
