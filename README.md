@@ -16,7 +16,6 @@ thereby emphasizing the importance of vigilant and informed handling of AWS reso
 
 <br/>
 
-
 ### Step 2: Providing Remediation and Solutions 👍
 <br/>
 Once the risk has been clearly articulated, the next step involves offering practical remediation strategies. 
@@ -24,7 +23,6 @@ This includes directing users to specific AWS documentation that details necessa
 This guidance helps ensure that users are well-equipped to prevent or address security lapses effectively.
 
 <br/>
-
 
 ### Step 3: Effective Communication Strategies 📑 
 Determining the target audience is crucial for effective communication. 
@@ -36,8 +34,7 @@ embedded to avoid external links and ensure ease of access.
 
 <br/>
 
-Step 4:
-### Monitoring Engagement and Effectiveness 👋 
+### Step 4: Monitoring Engagement and Effectiveness 👋 
 <br/>
 Following the distribution of the training material, it is vital to monitor engagement and gather metrics 
 to assess the training's impact. 
