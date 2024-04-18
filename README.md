@@ -7,6 +7,7 @@ address specific security risks associated with AWS technologies.
 Below are the steps we took to complete this lab.
 
 <br/>
+
 Step 1:
 <br/>
 ### Identifying the Specific Risk 💥 
@@ -17,6 +18,7 @@ the potential negative impacts of such misconfigurations,
 thereby emphasizing the importance of vigilant and informed handling of AWS resources.
 
 <br/>
+
 Step 2:
 ### Providing Remediation and Solutions 👍
 <br/>
@@ -25,6 +27,7 @@ This includes directing users to specific AWS documentation that details necessa
 This guidance helps ensure that users are well-equipped to prevent or address security lapses effectively.
 
 <br/>
+
 Step 3:
 ### Effective Communication Strategies 📑 
 <br/>
@@ -33,6 +36,7 @@ This training is designed specifically for IT personnel, R&D teams, and any indi
 
 The training material, including a comprehensive video, is distributed directly via email, embedded to avoid external links and ensure ease of access.
 
+<br/>
 
 Step 4:
 ### Monitoring Engagement and Effectiveness 👋 
