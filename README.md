@@ -5,9 +5,7 @@ This project focuses on Just-In-Time cybersecurity awareness training tailored t
 address specific security risks associated with AWS technologies.
 
 Below are the steps we took to complete this lab.
-
 <br/>
-
 
 ### Step 1: Identifying the Specific Risk 💥 
 <br/>
