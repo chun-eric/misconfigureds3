@@ -42,6 +42,7 @@ Such metrics are instrumental in evaluating the training's effectiveness.
 Additionally, for those who have not engaged with the material, 
 a follow-up reminder will be sent to encourage their participation.
 
+Watch the video below.
 <br/>
 
 [![IMAGE_ALT TEXT](https://img.youtube.com/vi/MFxIpmqld-w/0.jpg)](https://youtu.be/MFxIpmqld-w)
