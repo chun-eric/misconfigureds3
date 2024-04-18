@@ -53,5 +53,6 @@ Additionally, for those who have not engaged with the material,
 a follow-up reminder will be sent to encourage their participation.
 
 <br/>
+
 [![IMAGE_ALT TEXT](https://img.youtube.com/vi/MFxIpmqld-w/0.jpg)](https://youtu.be/MFxIpmqld-w)
 
