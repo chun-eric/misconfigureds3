@@ -30,7 +30,6 @@ This guidance helps ensure that users are well-equipped to prevent or address se
 
 Step 3:
 ### Effective Communication Strategies 📑 
-<br/>
 Determining the target audience is crucial for effective communication. 
 This training is designed specifically for IT personnel, R&D teams, 
 and any individual responsible for configuring AWS S3 Buckets. 
